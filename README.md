@@ -1,6 +1,6 @@
 # Hi there, I'm Heba Abudahrouj 🚀
 
-Welcome to my GitHub profile! I’m a **Mathematician** with a love for problem-solving and data science.   
+Welcome to my GitHub profile! I’m a **Mathematician** with a love for problem-solving and data science.
 From elegant equations to powerful algorithms, I’m all about turning numbers into meaningful insights!
 
 ---
@@ -25,8 +25,8 @@ From elegant equations to powerful algorithms, I’m all about turning numbers i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heba3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba3&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </div>
 
 ---
