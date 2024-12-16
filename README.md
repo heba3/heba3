@@ -1,17 +1,18 @@
 # Hi there, I'm Heba Abudahrouj 🚀
 
-Welcome to my GitHub profile! I’m a **Mathematician** with a love for problem-solving and data science.  
-From elegant equations to powerful algorithms, I’m all about turning numbers into meaningful insights!
+Welcome to my GitHub profile! I’m a **Mathematician** with a love for problem-solving  
+and data science. From elegant equations to powerful algorithms, I’m all about turning  
+numbers into meaningful insights!
 
 ---
 
 ## ✨ About Me
 
-- 🎓 **Education:** Bachelor's in Mathematics
-- 🏆 **Current Role:** MIT Emerging Talent Program Participant | Mathematics teacher at UNRWA.
-- 🌱 **Currently Learning:** Python, R, SQL.
-- 💡 **Interests:** Statistics, Data analysis, Logic.
-- 📍 **Location:** Cairo, Egypt.
+- 🎓 **Education:** Bachelor's in Mathematics  
+- 🏆 **Current Role:** MIT Emerging Talent Program Participant | Mathematics teacher at UNRWA.  
+- 🌱 **Currently Learning:** Python, R, SQL.  
+- 💡 **Interests:** Statistics, Data analysis, Logic.  
+- 📍 **Location:** Cairo, Egypt.  
 
 ---
 
