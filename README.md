@@ -1,8 +1,8 @@
 # Hi there, I'm Heba Abudahrouj 🚀
 
-Welcome to my GitHub profile!  
-I’m a **Mathematician** with a love for problem-solving  
+Welcome to my GitHub profile!  I’m a **Mathematician** with a love for problem-solving  
 and data science. 
+
 ---
 
 ## ✨ About Me
